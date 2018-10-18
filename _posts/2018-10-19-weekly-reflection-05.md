@@ -17,6 +17,7 @@ In class the whole period we were able to work on our flags and
 
 # Thursday
 My Flag Results 
+
 ![ghana](/images/ghana.png)
 
 ![Germany](/images/Germany.png)
