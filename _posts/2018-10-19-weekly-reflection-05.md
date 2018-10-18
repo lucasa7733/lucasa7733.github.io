@@ -1,11 +1,22 @@
-Monday
+ ---
+ layout: post
+ title: "Lucas Alcantara, AFSE Student, Weekly Reflection 05" 
+ date: 2018-10-19
+ ---
+
+
+# Monday
 In class we practiced coding "overlays" which helped us in our flag project. We were required to solve coding issues
 involving the positioning of ellipses and rectangles. 
 
 
-Wednesday
-In class the whole period we 
+# Wednesday
+In class the whole period we were able to work on our flags and 
 
 
 
-Thursday
+# Thursday
+My Flag Results 
+![ghana](/images/ghana.png)
+
+![Germany](/images/Germany.png)
