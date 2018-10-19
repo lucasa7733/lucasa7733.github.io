@@ -1,8 +1,8 @@
- ---
+---
  layout: post
  title: "Lucas Alcantara, AFSE Student, Weekly Reflection 05" 
  date: 2018-10-19
- ---
+---
 
 
 # Monday
