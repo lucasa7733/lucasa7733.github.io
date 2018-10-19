@@ -17,7 +17,14 @@ In class the whole period we were able to work on our flags and
 
 # Thursday
 My Flag Results 
-Flag Of Ghana ![ghana](/images/ghana.png) Flag of Germany ![Germany](/images/Germany.png)
+<br>
+Flag Of Ghana 
+<br>
+![ghana](/images/ghana.png) 
+<br>
+Flag of Germany 
+<br>
+![Germany](/images/Germany.png)
 
 
 
