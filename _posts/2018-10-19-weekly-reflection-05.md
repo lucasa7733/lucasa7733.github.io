@@ -13,7 +13,7 @@ involving the positioning of ellipses and rectangles. So far creating images in 
 
 # Wednesday
 
-In class the whole period we were able to work on our flags and figure out how to translate what we learned Monday into
+In class the whole period we were able to work on our flags and figure out how to translate what we learned Monday into making our final flags. Strengthening our ability to make connections between code.
 
 
 
