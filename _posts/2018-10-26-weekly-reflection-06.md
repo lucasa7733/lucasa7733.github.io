@@ -7,5 +7,6 @@
 
 # Monday
 
-On Monday in class our teacher introduced us to Data Science. Data science is a popular
+On Monday in class our teacher introduced us to Data Science. Data science is a popular`
+
 
