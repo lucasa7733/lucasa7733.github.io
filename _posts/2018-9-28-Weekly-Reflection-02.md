@@ -1,7 +1,7 @@
 ---
- layout: post
- title: "Lucas Alcantara, Weekly Reflection 06" 
- date: 2018-9-28
+ Layout: post
+ Title: "Lucas Alcantara, Weekly Reflection 06" 
+ Date: 2018-9-28
 ---
 
 In this week of CS we first were identifying changes in video games. Such as in run, where your character is moving left and right dodging obstecles. This was easy to identify but, hard to word. I feel like we as people have a hard time describing the changes of our life and rather not question what is different.
