@@ -1,6 +1,6 @@
 ---
  Layout: post
- Title: "Lucas Alcantara, Weekly Reflection 06" 
+ Title: "Lucas Alcantara, Weekly Reflection 02" 
  Date: 2018-9-28
 ---
 
