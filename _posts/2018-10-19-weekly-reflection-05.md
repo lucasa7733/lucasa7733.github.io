@@ -1,7 +1,7 @@
 ---
- layout: post
- title: "Lucas Alcantara, Weekly Reflection 05" 
- date: 2018-10-19
+ Layout: Post
+ Title: "Lucas Alcantara, Weekly Reflection 05" 
+ Date: 2018-10-19
 ---
 
 
