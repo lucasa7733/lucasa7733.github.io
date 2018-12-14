@@ -3,7 +3,7 @@
  Title: "Lucas Alcantara, Weekly Reflection 12" 
  Date: 2018-12-07
 ---
-#Showing Vulnerability in Learning
+# Showing Vulnerability in Learning
 
 From now on I'm going to try and stray away from the structured reflections I've made before and go into a more generalized way
 of describing my time in AP CS.
