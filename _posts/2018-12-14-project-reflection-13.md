@@ -11,7 +11,7 @@
 
 # My Understanding of the Flag Project
 
-If you look at my previous weekly reflection (posibbly week 5 or 6) you can see that we had an assignment to code our choice of flags in Pyret. I was able to make two flags, Germany and Ghana. I had a basic understanding of the project 
+If you look at my previous weekly reflection (posibbly week 5 or 6) you can see that we had an assignment to code our choice of flags in Pyret. I was able to make two flags, Germany and Ghana. I had a basic understanding of the project, there weren't many problems that arouse other than trying to figure out how to translate the dimensions into code. For some reason I had a lot of trouble getting the DW and DR (diagonal whites and reds) to get on the proper angle I needed them to be in. Other than that it was a simple task given to by the teacher and helped me understand how to solve my own problems.
 
 
 # Code for the Flag
