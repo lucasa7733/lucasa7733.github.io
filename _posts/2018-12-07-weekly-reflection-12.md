@@ -18,3 +18,5 @@ from this as a student and as a young adult.
  
 For once in my education I want to really want to engage in the class and work on it outside of 
 school to enhance my understanding of the course.
+
+# I will come back to this idea of Showing Vulnerability in Learning later in the year.
