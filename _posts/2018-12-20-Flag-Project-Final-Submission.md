@@ -8,14 +8,13 @@ date: 2018-12-20
 
 ## Describe your program
 
--   What country did you design for? 
+-   I designed the flag of the United Kingdom also known as the Union Jack. 
 -   What grade do you expect? 
 
-<!--- Delete this comment and add your writing -->
+
 
 ## Current output
 
--   Insert an image that your program currently produces. _then delete this instruction_
 
 * * *
 ![Flag](/images/final-flag.png)
@@ -23,7 +22,8 @@ date: 2018-12-20
 
 ## Describe your process.
 
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
+
+I had a basic understanding of the project, there weren't many problems that arouse other than trying to figure out how to translate the dimensions into code which my friend Noah Johnson helped with). For some reason I had a lot of trouble getting the DW and DR (diagonal whites and reds) to get on the proper angle I needed them to be in. Other than that it was a fun and challenging task.
 
 <!--- Delete this comment and add your writing -->
 
@@ -34,13 +34,55 @@ date: 2018-12-20
 -   Explain each argument in the code section. _then delete this instruction_
 -   Tell us how it functions independently and within the whole program _then delete this instruction_
 
-* * *
+
+
 
 ```
-Insert 10-15 line code section here _then delete this instruction_
-```
+Base=rectangle(length,height,"solid","dark-blue")
 
-* * *
+WR =rectangle(length,height / 3,"solid","white")
+
+VertW =rectangle(length / 5,height,"solid","white")
+
+DW1 =rectangle(dlength,height / 5,"solid","white")
+
+DW2 =rectangle(dlength,height / 5,"solid","white")
+
+DR1 =rectangle(dlength / 2,dwidth / 3,"solid","red")
+
+DR2 =rectangle(dlength / 2,dwidth / 3,"solid","red")
+
+DR3 =rectangle(dlength / 2,dwidth / 3,"solid","red")
+
+DR4 =rectangle(dlength / 2,dwidth / 3,"solid","red")
+
+V =rectangle(60,300,"solid","red")
+
+H =rectangle(length,height / 5,"solid","red")
+
+#combination of simple parts for uk
+
+st =place-image(rotate(30,DW1),250,150,Base)
+
+nd =place-image(rotate(150,DW2),250,150,st)
+
+rd =place-image(rotate(150,DR1),100,75,nd)
+
+th =place-image(rotate(30,DR2),360,75,rd)
+
+f =place-image(rotate(150,DR3),445,250,th)
+
+s =place-image(rotate(30,DR4),140,225,f)
+
+se =place-image(WR,250,150,s)
+
+e =place-image(VertW,250,150,se)
+
+n =place-image(V,250,150,e)
+
+uk =place-image(H,250,150,n)
+
+```
 
 -   Explain the code you posted by telling us about each argument.
 -   Then tell us how your code section fits into the whole.
