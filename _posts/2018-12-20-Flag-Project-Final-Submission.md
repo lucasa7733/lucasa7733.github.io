@@ -38,6 +38,40 @@ I had a basic understanding of the project, there weren't many problems that aro
 
 
 ```
+#simple parts for uk
+
+Base=rectangle(length,height,"solid","dark-blue")
+
+WR =rectangle(length,height / 3,"solid","white")
+
+VertW =rectangle(length / 5,height,"solid","white")
+
+DW1 =rectangle(dlength,height / 5,"solid","white")
+
+DW2 =rectangle(dlength,height / 5,"solid","white")
+
+DR1 =rectangle(dlength / 2,dwidth / 3,"solid","red")
+
+DR2 =rectangle(dlength / 2,dwidth / 3,"solid","red")
+
+DR3 =rectangle(dlength / 2,dwidth / 3,"solid","red")
+
+DR4 =rectangle(dlength / 2,dwidth / 3,"solid","red")
+
+V =rectangle(60,300,"solid","red")
+
+H =rectangle(length,height / 5,"solid","red")
+```
+
+-   Explain the code you posted by telling us about each argument.
+-   Then tell us how your code section fits into the whole.
+ 
+<!--- Delete this comment and add your writing -->
+
+
+## Program code
+
+```
 Base=rectangle(length,height,"solid","dark-blue")
 
 WR =rectangle(length,height / 3,"solid","white")
@@ -82,16 +116,4 @@ n =place-image(V,250,150,e)
 
 uk =place-image(H,250,150,n)
 
-```
-
--   Explain the code you posted by telling us about each argument.
--   Then tell us how your code section fits into the whole.
- 
-<!--- Delete this comment and add your writing -->
-
-
-## Program code
-
-```
-Insert entire program here _then delete this instruction_
 ```
