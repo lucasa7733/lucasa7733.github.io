@@ -32,7 +32,8 @@ I had a basic understanding of the project, there weren't many problems that aro
 This is how I started the flag code. Basically like said in the comment these are the basic parts of the flag, each individual piece creates the Union Jack. So on their own the Base-rectangle would just be a solid dark blue rectangle (2:3)
 WR would be a white rectangle 
 VertW would be the white verticle rectangle
-DW1-4 would be the diagonal white rectangles going in an X shape throughout the flag
+DW1 and DW2 would be the diagonal white rectangles going in an X shape throughout the flag
+DR1-4 would be the red diagonal rectangles going in that same shape
 V and H would be the final two recatangles needed to make the Union Jack the beautiful flag it is.
 
 As a whole, the simple parts let the program realize that these are the definitions needed to make the whole flag.
