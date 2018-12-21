@@ -9,7 +9,7 @@ date: 2018-12-20
 ## Describe your program
 
 -   I designed the flag of the United Kingdom also known as the Union Jack. 
--   What grade do you expect? 
+-   Not to be concieted but, I believe I deserve a professional. It shows well in my program that I have an understanding on how to correctlty create the right dimensions for the given flag, and I am able to describe each part of the code correctly. 
 
 
 
@@ -25,16 +25,18 @@ date: 2018-12-20
 
 I had a basic understanding of the project, there weren't many problems that arouse other than trying to figure out how to translate the dimensions into code which my friend Noah Johnson helped with). For some reason I had a lot of trouble getting the DW and DR (diagonal whites and reds) to get on the proper angle I needed them to be in. Other than that it was a fun and challenging task.
 
-<!--- Delete this comment and add your writing -->
 
 
 ## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
+This is how I started the flag code. Basically like said in the comment these are the basic parts of the flag, each individual piece creates the Union Jack. So on their own the Base-rectangle would just be a solid dark blue rectangle (2:3)
+WR would be a white rectangle 
+VertW would be the white verticle rectangle
+DW1-4 would be the diagonal white rectangles going in an X shape throughout the flag
+V and H would be the final two recatangles needed to make the Union Jack the beautiful flag it is.
 
-
+As a whole, the simple parts let the program realize that these are the definitions needed to make the whole flag.
+It gives us the oppurtunity to utilize each of the definitions to their fullest ability.
 
 
 ```
@@ -63,10 +65,6 @@ V =rectangle(60,300,"solid","red")
 H =rectangle(length,height / 5,"solid","red")
 ```
 
--   Explain the code you posted by telling us about each argument.
--   Then tell us how your code section fits into the whole.
- 
-<!--- Delete this comment and add your writing -->
 
 
 ## Program code
